@@ -1,7 +1,1 @@
-"# GIT" 
-"# GIT" 
-"# GIT" 
-"# GIT" 
-"# GIT" 
-"# GIT" 
-"# gitl" 
+hello git 
